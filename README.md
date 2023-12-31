@@ -1,6 +1,6 @@
 # Next Auth v5 - Advanced Guide (2024)
 
-![Copy of Copy of Fullstack Twitter Clone (1)](https://github.com/AntonioErdeljac/next13-ecommerce-admin/assets/23248726/088760cb-837d-44b7-a959-63089385d0a0)
+![image](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide/assets/23248726/d0175397-8c3f-4e82-91c4-78c14f29bb81)
 
 This is a repository for Next Auth v5 - Advanced Guide (2024)
 
